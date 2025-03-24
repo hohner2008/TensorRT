@@ -5,7 +5,7 @@ diffusers==0.29.2
 ftfy
 matplotlib
 nvtx
-onnx==1.15.0
+onnx==1.17.0
 onnxruntime==1.17.3
 opencv-python==4.8.0.74
 scipy
