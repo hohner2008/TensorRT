@@ -13,3 +13,4 @@ pywin32; platform_system == "Windows"
 pyyaml==6.0.1
 requests==2.32.2
 tqdm==4.66.4
+onnx>=1.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
