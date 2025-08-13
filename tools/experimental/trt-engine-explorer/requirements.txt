@@ -13,3 +13,4 @@ pynvml
 # Packages required for excel reporting.
 xlsxwriter
 openpyxl
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
