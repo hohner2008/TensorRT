@@ -1,9 +1,10 @@
 # Packages required for using the notebooks.
 ipywidgets==8.1.1
 dtale==3.8.1
-Werkzeug==2.3.7
+Werkzeug==3.1.5
 Flask==2.2.2
 plotly
 jupyter
 jupyterlab
 netron
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
