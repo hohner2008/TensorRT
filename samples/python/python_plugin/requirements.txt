@@ -16,3 +16,4 @@ pywin32; platform_system == "Windows"
 pyyaml==6.0.1
 requests==2.32.2
 tqdm==4.66.4
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
